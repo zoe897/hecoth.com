@@ -1,7 +1,7 @@
 ---
 title: "Advanced Plant Protection Equipment"
 description: "Professional spraying and spreading solutions to protect your crops and ensure healthy growth throughout the season."
-image: "/img/implement/protection-main.jpg"
+image: "/img/plough/1LS220.jpg"
 ---
 
 # Crop Care & Plant Protection
