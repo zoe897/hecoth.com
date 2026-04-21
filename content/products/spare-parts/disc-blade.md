@@ -1,121 +1,156 @@
-//import Image from "next/image";
+// app/products/spare-parts/disc-blade/page.tsx
+
+import Image from "next/image";
 
 export const metadata = {
-  title: "Disc Blade Manufacturer | Harrow Disc Blade Supplier",
+  title: "Disc Blade Manufacturer | High Wear Resistant Agricultural Disc Blade",
   description:
-    "High wear resistant disc blade for agriculture. Boron steel, OEM supported. Fast delivery worldwide.",
+    "High quality disc blade for disc harrow. Boron steel material, OEM supported, wear resistant. Fast global delivery.",
+  keywords:
+    "disc blade, disc harrow blade, agricultural disc blade, notched disc blade, farming disc blade",
+  alternates: {
+    canonical: "https://your-domain.com/disc-blade",
+  },
 };
 
 export default function DiscBladePage() {
   return (
-    <main className="font-sans">
+    <main className="text-gray-900">
 
       {/* HERO */}
       <section className="bg-green-800 text-white text-center py-20 px-6">
-        <h1 className="text-4xl font-bold mb-4">
-          Heavy Duty Disc Blade Manufacturer
+        <h1 className="text-4xl font-bold">
+          Heavy Duty Disc Blade for Agriculture
         </h1>
-        <p className="mb-6">
-          Longer Lifespan | High Hardness | OEM Supported
+        <p className="mt-4 text-lg">
+          Boron Steel | Wear Resistant | OEM Supported
         </p>
-        <a href="#quote" className="bg-orange-500 px-6 py-3 rounded">
+
+        <a
+          href="#quote"
+          className="mt-6 inline-block bg-orange-500 px-6 py-3 rounded"
+        >
           Get Quote Now
         </a>
       </section>
 
       {/* IMAGE + VIDEO */}
-      <section className="py-16 px-6 max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
-        
+      <section className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 py-16 px-6">
+
+        {/* IMAGE */}
         <div>
           <Image
             src="/images/seed/discblade.jpg"
-            alt="disc blade"
-            width={500}
+            alt="disc blade agricultural"
+            width={600}
             height={400}
             className="rounded"
           />
         </div>
 
-        <div className="w-full h-[300px] md:h-[400px]">
+        {/* VIDEO */}
+        <div className="aspect-video w-full">
           <iframe
             className="w-full h-full rounded"
-            src="https://youtu.be/znTKwVyMO84?si=TgOdTqFpFGG55Djq"
-            title="Disc Blade Working"
+            src="https://youtu.be/znTKwVyMO84?si=gptPx-2bGt8R97nZ"
+            title="Disc Blade Working Video"
             allowFullScreen
           />
         </div>
 
       </section>
 
+      {/* WHAT IS DISC BLADE */}
+      <section className="max-w-4xl mx-auto px-6 py-10">
+        <h2 className="text-2xl font-bold mb-4">What is Disc Blade?</h2>
+        <p>
+          Disc blades are key components of agricultural disc harrows used for
+          soil cutting, residue mixing, and land preparation.
+        </p>
+      </section>
+
       {/* FEATURES */}
-      <section className="py-16 px-6 bg-gray-100">
+      <section className="bg-gray-100 py-16 px-6">
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-6">
 
-          <div className="p-6 bg-white rounded shadow">
-            <h3 className="font-bold mb-2">Boron Steel</h3>
-            <p>Stronger and more wear resistant</p>
+          <div className="bg-white p-6 rounded shadow">
+            <h3 className="font-bold">Boron Steel Material</h3>
+            <p>High strength and long service life</p>
           </div>
 
-          <div className="p-6 bg-white rounded shadow">
-            <h3 className="font-bold mb-2">Heat Treatment</h3>
+          <div className="bg-white p-6 rounded shadow">
+            <h3 className="font-bold">Heat Treated</h3>
             <p>Hardness up to HRC 52</p>
           </div>
 
-          <div className="p-6 bg-white rounded shadow">
-            <h3 className="font-bold mb-2">OEM Available</h3>
-            <p>Custom size and design supported</p>
+          <div className="bg-white p-6 rounded shadow">
+            <h3 className="font-bold">OEM Custom</h3>
+            <p>Size and design customization available</p>
           </div>
 
         </div>
       </section>
 
+      {/* APPLICATION */}
+      <section className="max-w-4xl mx-auto px-6 py-10">
+        <h2 className="text-2xl font-bold mb-4">Applications</h2>
+        <ul className="list-disc pl-5 space-y-2">
+          <li>Soil preparation</li>
+          <li>Crop residue cutting</li>
+          <li>Weed control</li>
+          <li>Land leveling</li>
+        </ul>
+      </section>
+
       {/* COMPARISON */}
-      <section className="py-16 px-6 max-w-6xl mx-auto">
+      <section className="bg-white py-16 px-6 max-w-6xl mx-auto">
         <h2 className="text-2xl font-bold mb-6">
-          Why Choose Our Disc Blade?
+          Why Our Disc Blade is Better?
         </h2>
 
-        <table className="w-full border">
-          <thead>
-            <tr className="bg-gray-200">
+        <table className="w-full border text-center">
+          <thead className="bg-gray-200">
+            <tr>
               <th className="p-3">Feature</th>
               <th>Our Blade</th>
-              <th>Standard</th>
+              <th>Normal Blade</th>
             </tr>
           </thead>
           <tbody>
-            <tr className="text-center">
+            <tr>
               <td className="p-3">Material</td>
               <td>Boron Steel</td>
               <td>Carbon Steel</td>
             </tr>
-            <tr className="text-center">
+            <tr>
               <td className="p-3">Hardness</td>
-              <td>HRC 38–52</td>
+              <td>HRC 45–52</td>
               <td>HRC 25–35</td>
             </tr>
-            <tr className="text-center">
+            <tr>
               <td className="p-3">Lifespan</td>
-              <td>Longer</td>
+              <td>Long</td>
               <td>Short</td>
             </tr>
           </tbody>
         </table>
       </section>
 
-      {/* FORM */}
-      <section id="quote" className="py-16 px-6 bg-gray-100">
+      {/* QUOTE FORM */}
+      <section id="quote" className="bg-gray-100 py-16 px-6">
         <div className="max-w-xl mx-auto">
           <h2 className="text-2xl font-bold mb-4">Request a Quote</h2>
 
           <form className="flex flex-col gap-4">
-            <input placeholder="Name" className="p-3 border" />
-            <input placeholder="Email" className="p-3 border" />
+            <input className="p-3 border" placeholder="Name" />
+            <input className="p-3 border" placeholder="Email" />
+            <input className="p-3 border" placeholder="Country" />
             <textarea
-              placeholder="Your requirements"
               className="p-3 border"
+              placeholder="Your requirement"
             />
-            <button className="bg-orange-500 text-white p-3">
+
+            <button className="bg-orange-500 text-white py-3">
               Send Inquiry
             </button>
           </form>
