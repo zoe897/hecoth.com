@@ -1,123 +1,143 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+//import Image from "next/image";
 
-<title>Disc Blade for Harrow | Durable Agricultural Disc Blade Supplier</title>
+export const metadata = {
+  title: "Disc Blade Manufacturer | Harrow Disc Blade Supplier",
+  description:
+    "High wear resistant disc blade for agriculture. Boron steel, OEM supported. Fast delivery worldwide.",
+};
 
-<meta name="description" content="Buy high quality disc blade for harrow. Boron steel, high wear resistance, OEM supported. Fast delivery worldwide. Get quote now.">
+export default function DiscBladePage() {
+  return (
+    <main className="font-sans">
 
-<style>
-body {font-family: Arial; margin:0;}
-.container {width:90%; max-width:1200px; margin:auto;}
-.hero {background:#1b5e20; color:#fff; padding:70px 20px; text-align:center;}
-.section {padding:50px 20px;}
-.grid {display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:20px;}
-.btn {background:#ff6f00; color:#fff; padding:14px 28px; text-decoration:none; border-radius:5px;}
-.card {border:1px solid #eee; padding:20px; border-radius:8px;}
-img {width:100%; border-radius:8px;}
-.video iframe {width:100%; height:400px; border:none;}
-.sticky {position:fixed; bottom:0; width:100%; background:#ff6f00; text-align:center; padding:10px;}
-.sticky a {color:#fff; text-decoration:none; font-size:18px;}
-.whatsapp {position:fixed; right:20px; bottom:80px; background:#25d366; padding:15px; border-radius:50%;}
-</style>
-</head>
+      {/* HERO */}
+      <section className="bg-green-800 text-white text-center py-20 px-6">
+        <h1 className="text-4xl font-bold mb-4">
+          Heavy Duty Disc Blade Manufacturer
+        </h1>
+        <p className="mb-6">
+          Longer Lifespan | High Hardness | OEM Supported
+        </p>
+        <a href="#quote" className="bg-orange-500 px-6 py-3 rounded">
+          Get Quote Now
+        </a>
+      </section>
 
-<body>
+      {/* IMAGE + VIDEO */}
+      <section className="py-16 px-6 max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
+        
+        <div>
+          <Image
+            src="/images/seed/discblade.jpg"
+            alt="disc blade"
+            width={500}
+            height={400}
+            className="rounded"
+          />
+        </div>
 
-<!-- HERO -->
-<div class="hero">
-  <div class="container">
-    <h1>Heavy Duty Disc Blade for Harrow</h1>
-    <p>Stronger | Longer Life | OEM Customization</p>
-    <a href="#quote" class="btn">Get Quote Now</a>
-  </div>
-</div>
+        <div className="w-full h-[300px] md:h-[400px]">
+          <iframe
+            className="w-full h-full rounded"
+            src="https://youtu.be/znTKwVyMO84?si=TgOdTqFpFGG55Djq"
+            title="Disc Blade Working"
+            allowFullScreen
+          />
+        </div>
 
-<!-- PRODUCT IMAGES -->
-<div class="section container">
-  <h2>Disc Blade Product Showcase</h2>
-  <div class="grid">
-    <img src="https://via.placeholder.com/400x300?text=Disc+Blade+1">
-    <img src="https://via.placeholder.com/400x300?text=Disc+Blade+2">
-    <img src="https://via.placeholder.com/400x300?text=Notched+Disc">
-    <img src="https://via.placeholder.com/400x300?text=Smooth+Disc">
-  </div>
-</div>
+      </section>
 
-<!-- APPLICATION IMAGES -->
-<div class="section container">
-  <h2>Application in Field</h2>
-  <div class="grid">
-    <img src="https://via.placeholder.com/400x300?text=Farming+Use">
-    <img src="https://via.placeholder.com/400x300?text=Soil+Tillage">
-    <img src="https://via.placeholder.com/400x300?text=Disc+Harrow+Work">
-  </div>
-</div>
+      {/* FEATURES */}
+      <section className="py-16 px-6 bg-gray-100">
+        <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-6">
 
-<!-- VIDEO -->
-<div class="section container video">
-  <h2>See Our Disc Blade in Action</h2>
-  <iframe src="https://youtu.be/znTKwVyMO84?si=IllZ2Vr5dh0-mKHQ"></iframe>
-</div>
+          <div className="p-6 bg-white rounded shadow">
+            <h3 className="font-bold mb-2">Boron Steel</h3>
+            <p>Stronger and more wear resistant</p>
+          </div>
 
-<!-- FEATURES -->
-<div class="section container">
-  <h2>Key Advantages</h2>
-  <div class="grid">
-    <div class="card">
-      <h3>Boron Steel</h3>
-      <p>High strength and wear resistance.</p>
-    </div>
-    <div class="card">
-      <h3>Heat Treatment</h3>
-      <p>Hardness up to HRC 52.</p>
-    </div>
-    <div class="card">
-      <h3>Precision Design</h3>
-      <p>Better soil penetration.</p>
-    </div>
-  </div>
-</div>
+          <div className="p-6 bg-white rounded shadow">
+            <h3 className="font-bold mb-2">Heat Treatment</h3>
+            <p>Hardness up to HRC 52</p>
+          </div>
 
-<!-- TESTIMONIAL -->
-<div class="section">
-  <div class="container">
-    <h2>What Our Clients Say</h2>
-    <div class="grid">
-      <div class="card">
-        <p>"Very durable disc blades. We use them in Brazil farms, performance is excellent."</p>
-        <strong>— Carlos, Brazil</strong>
+          <div className="p-6 bg-white rounded shadow">
+            <h3 className="font-bold mb-2">OEM Available</h3>
+            <p>Custom size and design supported</p>
+          </div>
+
+        </div>
+      </section>
+
+      {/* COMPARISON */}
+      <section className="py-16 px-6 max-w-6xl mx-auto">
+        <h2 className="text-2xl font-bold mb-6">
+          Why Choose Our Disc Blade?
+        </h2>
+
+        <table className="w-full border">
+          <thead>
+            <tr className="bg-gray-200">
+              <th className="p-3">Feature</th>
+              <th>Our Blade</th>
+              <th>Standard</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr className="text-center">
+              <td className="p-3">Material</td>
+              <td>Boron Steel</td>
+              <td>Carbon Steel</td>
+            </tr>
+            <tr className="text-center">
+              <td className="p-3">Hardness</td>
+              <td>HRC 38–52</td>
+              <td>HRC 25–35</td>
+            </tr>
+            <tr className="text-center">
+              <td className="p-3">Lifespan</td>
+              <td>Longer</td>
+              <td>Short</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      {/* FORM */}
+      <section id="quote" className="py-16 px-6 bg-gray-100">
+        <div className="max-w-xl mx-auto">
+          <h2 className="text-2xl font-bold mb-4">Request a Quote</h2>
+
+          <form className="flex flex-col gap-4">
+            <input placeholder="Name" className="p-3 border" />
+            <input placeholder="Email" className="p-3 border" />
+            <textarea
+              placeholder="Your requirements"
+              className="p-3 border"
+            />
+            <button className="bg-orange-500 text-white p-3">
+              Send Inquiry
+            </button>
+          </form>
+        </div>
+      </section>
+
+      {/* STICKY CTA */}
+      <div className="fixed bottom-0 left-0 w-full bg-orange-500 text-center py-3">
+        <a href="#quote" className="text-white font-bold">
+          👉 Get Best Price Now
+        </a>
       </div>
-      <div class="card">
-        <p>"Good quality and fast delivery. Reliable supplier for long-term cooperation."</p>
-        <strong>— John, USA</strong>
-      </div>
-    </div>
-  </div>
-</div>
 
-<!-- FORM -->
-<div id="quote" class="section container">
-  <h2>Request a Quote</h2>
-  <form>
-    <input type="text" placeholder="Your Name" required><br>
-    <input type="email" placeholder="Email" required><br>
-    <textarea placeholder="Your requirements"></textarea><br>
-    <button class="btn">Send Inquiry</button>
-  </form>
-</div>
+      {/* WHATSAPP */}
+      <a
+        href="https://wa.me/8619743003775"
+        target="_blank"
+        className="fixed bottom-20 right-5 bg-green-500 text-white p-4 rounded-full"
+      >
+        💬
+      </a>
 
-<!-- STICKY CTA -->
-<div class="sticky">
-  <a href="#quote">👉 Get Best Price Now</a>
-</div>
-
-<!-- WHATSAPP -->
-<div class="whatsapp">
-  <a href="https://wa.me/yourwhatsapp" target="_blank">💬</a>
-</div>
-
-</body>
-</html>
+    </main>
+  );
+}
