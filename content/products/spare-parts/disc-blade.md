@@ -1,76 +1,90 @@
-<section class="bg-gray-50 p-8 rounded-2xl border border-gray-200 my-10">
-  <h2 class="text-2xl font-bold text-gray-900 mb-4 text-center">Standardized Ordering System</h2>
-  <p class="text-center text-gray-600 mb-8">Quickly configure your required specifications using our professional coding logic.</p>
-  
-  <div class="flex flex-wrap justify-center items-center gap-4 text-lg font-mono">
-    <div class="bg-green-600 text-white px-4 py-2 rounded">Type</div>
-    <span class="text-gray-400">-</span>
-    <div class="bg-blue-600 text-white px-4 py-2 rounded">OD</div>
-    <span class="text-gray-400">-</span>
-    <div class="bg-blue-600 text-white px-4 py-2 rounded">Thickness</div>
-    <span class="text-gray-400">-</span>
-    <div class="bg-orange-600 text-white px-4 py-2 rounded">Edge</div>
-    <span class="text-gray-400">-</span>
-    <div class="bg-orange-600 text-white px-4 py-2 rounded">Notch</div>
-    <span class="text-gray-400">-</span>
-    <div class="bg-gray-700 text-white px-4 py-2 rounded">Hole (PCD/ID)</div>
-  </div>
-  
-  <div class="mt-8 grid md:grid-cols-4 gap-4 text-sm">
-    <div class="border-l-4 border-green-500 pl-4">
-      <p class="font-bold">Blade Type</p>
-      <p class="text-gray-500">HA: Concave<br>HB: Flat Center<br>LA: Flat Disc</p>
-    </div>
-    <div class="border-l-4 border-blue-500 pl-4">
-      <p class="font-bold">Dimensions</p>
-      <p class="text-gray-500">OD: 12" - 32"<br>T: 3mm - 12mm</p>
-    </div>
-    <div class="border-l-4 border-orange-500 pl-4">
-      <p class="font-bold">Finishing</p>
-      <p class="text-gray-500">B3: Double Edge<br>U2: V-Notches</p>
-    </div>
-    <div class="border-l-4 border-gray-500 pl-4">
-      <p class="font-bold">Compatibility</p>
-      <p class="text-gray-500">PCD: 130/146/159...<br>ID: Center Hole Dia.</p>
-    </div>
-  </div>
-</section>
+---
+title: High-Performance Agricultural Disc Blades
+description: Premium Boron Steel and 65Mn Steel Disc Blades for Disc Harrows and Ploughs.
+category: Spare Parts
+---
+![HB Series](/img/seed/discblade.jpg)
 
-<div class="overflow-x-auto shadow-xl rounded-lg">
-  <table class="w-full text-left border-collapse bg-white">
-    <thead class="bg-gray-800 text-white">
-      <tr>
-        <th class="p-4">Blade Category</th>
-        <th class="p-4">Visual Feature</th>
-        <th class="p-4">Key Specifications</th>
-        <th class="p-4">Market Application</th>
-      </tr>
-    </thead>
-    <tbody class="divide-y divide-gray-200">
-      <tr>
-        <td class="p-4 font-bold text-green-700">HA Series (Concave)</td>
-        <td class="p-4">Standard Spherical Curve</td>
-        <td class="p-4 text-sm text-gray-600">R410 - R990 Curvature [cite: 42]</td>
-        <td class="p-4 text-sm">General ploughing & harrowing.</td>
-      </tr>
-      <tr>
-        <td class="p-4 font-bold text-green-700">HB Series (Flat Center)</td>
-        <td class="p-4">Center Flat Surface</td>
-        <td class="p-4 text-sm text-gray-600">Flat Size (FS): 140mm - 210mm [cite: 148]</td>
-        <td class="p-4 text-sm">Heavy-duty disc harrows with large hubs.</td>
-      </tr>
-      <tr>
-        <td class="p-4 font-bold text-green-700">LA Series (Flat Disc)</td>
-        <td class="p-4">Complete Flat Surface</td>
-        <td class="p-4 text-sm text-gray-600">Thickness up to 12mm available</td>
-        <td class="p-4 text-sm">Coulter blades, vertical tillage.</td>
-      </tr>
-      <tr>
-        <td class="p-4 font-bold text-green-700">SA Series (Special)</td>
-        <td class="p-4">Oblique / Patented Shape</td>
-        <td class="p-4 text-sm text-gray-600">Eco-conscious weed management [cite: 18, 22]</td>
-        <td class="p-4 text-sm">Chopping straw, sugar cane & weeds.</td>
-      </tr>
-    </tbody>
-  </table>
+# High-Performance Agricultural Disc Blades
+
+Premium replacement harrowing and ploughing discs designed for global agricultural machinery. Our blades are engineered to withstand the most rigorous soil conditions.
+
+<div class="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200 my-10">
+  <div class="flex flex-col items-center text-center">
+    <h2 class="text-xl font-bold text-gray-800 mb-2 mt-0">Standardized Ordering System</h2>
+    <p class="text-gray-500 mb-6 text-xs uppercase tracking-widest">Identify your specifications via our professional coding logic</p>
+    
+    <div class="flex flex-wrap justify-center items-center gap-2 font-mono text-sm md:text-base font-bold mb-8">
+      <div class="bg-green-600 text-white px-3 py-1.5 rounded shadow-sm">TYPE</div>
+      <span class="text-gray-400">-</span>
+      <div class="bg-blue-600 text-white px-3 py-1.5 rounded shadow-sm">OD</div>
+      <span class="text-gray-400">-</span>
+      <div class="bg-blue-600 text-white px-3 py-1.5 rounded shadow-sm">T</div>
+      <span class="text-gray-400">-</span>
+      <div class="bg-orange-500 text-white px-3 py-1.5 rounded shadow-sm">EDGE</div>
+      <span class="text-gray-400">-</span>
+      <div class="bg-orange-500 text-white px-3 py-1.5 rounded shadow-sm">NOTCH</div>
+      <span class="text-gray-400">-</span>
+      <div class="bg-gray-700 text-white px-3 py-1.5 rounded shadow-sm">HOLE/PCD</div>
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 w-full text-left text-xs border-t border-gray-200 pt-6">
+      <div>
+        <h4 class="font-bold text-gray-900 mb-1">1. DISC TYPE</h4>
+        <p class="text-gray-600 m-0">HA: Concave<br>HB: Flat Center<br>LA: Flat Disc<br>SA: Special Disc</p>
+      </div>
+      <div>
+        <h4 class="font-bold text-gray-900 mb-1">2. DIMENSIONS</h4>
+        <p class="text-gray-600 m-0">OD: 10" - 38"<br>T: 3mm - 12mm<br>FS: Flat Size (for HB)</p>
+      </div>
+      <div>
+        <h4 class="font-bold text-gray-900 mb-1">3. FINISHING</h4>
+        <p class="text-gray-600 m-0">B1-B6: Edge Types<br>U0-U4: Notch Types</p>
+      </div>
+      <div>
+        <h4 class="font-bold text-gray-900 mb-1">4. CENTER HOLE</h4>
+        <p class="text-gray-600 m-0">PCD: Pitch Circle<br>ID: Center Hole Dia.<br>NH: Number of Holes</p>
+      </div>
+    </div>
+  </div>
 </div>
+
+## Technical Specifications
+
+We offer two primary materials to match your specific soil requirements and budget.
+
+| Feature | 65Mn Spring Steel | Boron Steel (30MnB5) |
+| :--- | :--- | :--- |
+| **Hardness (HRC)** | 38 - 45 | **48 - 52** |
+| **Durability** | Standard | **3x Service Life** |
+| **Wear Resistance** | Moderate | **Superior** |
+| **Soil Type** | Soft to Medium | **Rocky / Abrasive / Hard Clay** |
+| **Market** | Price-sensitive | **Premium / Heavy-duty** |
+
+---
+
+## Product Categories
+
+### HA Series - Concave Discs
+Standard spherical curvature (R410-R990) designed for general ploughing and harrowing. Available in both 65Mn and Boron steel.
+
+### HB Series - Discs with Flat Center
+Featuring a center flat surface (Flat Size: 140mm - 210mm). Ideal for heavy-duty disc harrows with large hubs.
+
+### SA Series - Special Discs
+Custom shapes and oblique concave designs. These are engineered for sustainable farming practices, such as effective straw and weed management without stubble burning.
+
+---
+
+## Why Choose Our Disc Blades?
+
+- **Certified Boron Steel:** Every batch of 30MnB5 is inspected and QC passed with a guaranteed hardness of HRC 48-52.
+- **Precision Manufacturing:** Automated quenching and hot forging technology ensure consistent structural integrity.
+- **Global Compatibility:** Fully compatible with major brands including John Deere, Kuhn, Massey Ferguson, and more.
+- **Eco-Friendly Innovation:** Designed to improve soil quality and crop yields through better soil penetration and residue management.
+
+:::info
+**Expert Advice:** If you are exporting to abrasive soil markets like South America or Australia, **Boron Steel** is the highly recommended choice for long-term customer satisfaction.
+:::
+
+[Get a Wholesale Quote Now](mailto:zoe@annetop.com?subject=Inquiry%20for%20Disc%20Blades)
