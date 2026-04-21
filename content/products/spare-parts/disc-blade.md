@@ -1,99 +1,123 @@
-<template>
-  <div class="product-container max-w-7xl mx-auto p-6">
-    <header class="mb-10 text-center">
-      <h1 class="text-4xl font-bold text-gray-900 mb-4">
-        High-Performance Agricultural Disc Blades | 65Mn & Boron Steel
-      </h1>
-      <p class="text-lg text-gray-600">
-        Premium replacement harrowing and ploughing discs for global agricultural machinery.
-      </p>
-    </header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-      <div class="product-gallery">
-        <img src="/img/seed/discblade.jpg" alt="Heavy duty disc harrow blade" class="rounded-lg shadow-lg w-full">
-        <div class="flex mt-4 gap-2">
-          <img src="/img/spare-parts/notched-disc.jpg" alt="Notched disc blade" class="w-24 h-24 object-cover rounded border">
-          <img src="/img/spare-parts/plain-disc.jpg" alt="Plain disc blade" class="w-24 h-24 object-cover rounded border">
-        </div>
+<title>Disc Blade for Harrow | Durable Agricultural Disc Blade Supplier</title>
+
+<meta name="description" content="Buy high quality disc blade for harrow. Boron steel, high wear resistance, OEM supported. Fast delivery worldwide. Get quote now.">
+
+<style>
+body {font-family: Arial; margin:0;}
+.container {width:90%; max-width:1200px; margin:auto;}
+.hero {background:#1b5e20; color:#fff; padding:70px 20px; text-align:center;}
+.section {padding:50px 20px;}
+.grid {display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:20px;}
+.btn {background:#ff6f00; color:#fff; padding:14px 28px; text-decoration:none; border-radius:5px;}
+.card {border:1px solid #eee; padding:20px; border-radius:8px;}
+img {width:100%; border-radius:8px;}
+.video iframe {width:100%; height:400px; border:none;}
+.sticky {position:fixed; bottom:0; width:100%; background:#ff6f00; text-align:center; padding:10px;}
+.sticky a {color:#fff; text-decoration:none; font-size:18px;}
+.whatsapp {position:fixed; right:20px; bottom:80px; background:#25d366; padding:15px; border-radius:50%;}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="container">
+    <h1>Heavy Duty Disc Blade for Harrow</h1>
+    <p>Stronger | Longer Life | OEM Customization</p>
+    <a href="#quote" class="btn">Get Quote Now</a>
+  </div>
+</div>
+
+<!-- PRODUCT IMAGES -->
+<div class="section container">
+  <h2>Disc Blade Product Showcase</h2>
+  <div class="grid">
+    <img src="https://via.placeholder.com/400x300?text=Disc+Blade+1">
+    <img src="https://via.placeholder.com/400x300?text=Disc+Blade+2">
+    <img src="https://via.placeholder.com/400x300?text=Notched+Disc">
+    <img src="https://via.placeholder.com/400x300?text=Smooth+Disc">
+  </div>
+</div>
+
+<!-- APPLICATION IMAGES -->
+<div class="section container">
+  <h2>Application in Field</h2>
+  <div class="grid">
+    <img src="https://via.placeholder.com/400x300?text=Farming+Use">
+    <img src="https://via.placeholder.com/400x300?text=Soil+Tillage">
+    <img src="https://via.placeholder.com/400x300?text=Disc+Harrow+Work">
+  </div>
+</div>
+
+<!-- VIDEO -->
+<div class="section container video">
+  <h2>See Our Disc Blade in Action</h2>
+  <iframe src="https://youtu.be/znTKwVyMO84?si=IllZ2Vr5dh0-mKHQ"></iframe>
+</div>
+
+<!-- FEATURES -->
+<div class="section container">
+  <h2>Key Advantages</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Boron Steel</h3>
+      <p>High strength and wear resistance.</p>
+    </div>
+    <div class="card">
+      <h3>Heat Treatment</h3>
+      <p>Hardness up to HRC 52.</p>
+    </div>
+    <div class="card">
+      <h3>Precision Design</h3>
+      <p>Better soil penetration.</p>
+    </div>
+  </div>
+</div>
+
+<!-- TESTIMONIAL -->
+<div class="section">
+  <div class="container">
+    <h2>What Our Clients Say</h2>
+    <div class="grid">
+      <div class="card">
+        <p>"Very durable disc blades. We use them in Brazil farms, performance is excellent."</p>
+        <strong>— Carlos, Brazil</strong>
       </div>
-
-      <div class="product-info">
-        <h2 class="text-2xl font-semibold mb-4 text-green-700 underline-offset-4">Why Choose Our Disc Blades?</h2>
-        
-        <ul class="space-y-4">
-          <li class="flex items-start">
-            <span class="font-bold mr-2 text-green-600">✓</span>
-            <div>
-              <strong>Superior Material Selection:</strong> We offer <strong>Boron Steel (30MnB5)</strong> with HRC 48-52 and <strong>65Mn Spring Steel</strong> (HRC 38-42) to match different soil conditions.
-            </div>
-          </li>
-          <li class="flex items-start">
-            <span class="font-bold mr-2 text-green-600">✓</span>
-            <div>
-              <strong>Advanced Heat Treatment:</strong> Automated quenching technology ensures consistent hardness and reduces the risk of breakage in rocky terrains.
-            </div>
-          </li>
-          <li class="flex items-start">
-            <span class="font-bold mr-2 text-green-600">✓</span>
-            <div>
-              <strong>Global Compatibility:</strong> Compatible with John Deere, Massey Ferguson, and Kuhn equipment. Custom sizes (Diameter 12"-32") and thicknesses available.
-            </div>
-          </li>
-          <li class="flex items-start">
-            <span class="font-bold mr-2 text-green-600">✓</span>
-            <div>
-              <strong>Precision Finishing:</strong> Self-sharpening edges designed for better soil penetration and lower fuel consumption.
-            </div>
-          </li>
-        </ul>
-
-        <table class="w-full mt-8 border-collapse border border-gray-200">
-          <thead>
-            <tr class="bg-gray-100">
-              <th class="border p-2">Specifications</th>
-              <th class="border p-2">Details</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td class="border p-2">Material</td><td class="border p-2">65Mn Steel / Boron Steel</td></tr>
-            <tr><td class="border p-2">Hardness</td><td class="border p-2">38-52 HRC</td></tr>
-            <tr><td class="border p-2">Diameter</td><td class="border p-2">254mm - 960mm (10"-38")</td></tr>
-            <tr><td class="border p-2">Process</td><td class="border p-2">Hot Forged & Heat Treated</td></tr>
-          </tbody>
-        </table>
-
-        <button @click="openInquiry" class="mt-8 w-full bg-green-600 text-white py-3 rounded-md hover:bg-green-700 transition">
-          Get Wholesale Quote Now
-        </button>
+      <div class="card">
+        <p>"Good quality and fast delivery. Reliable supplier for long-term cooperation."</p>
+        <strong>— John, USA</strong>
       </div>
     </div>
   </div>
-</template>## 🛠️ Material Battle: Boron Steel vs. 65Mn Spring Steel
+</div>
 
-### 1. 65Mn Spring Steel (Standard Choice)
-* **Performance:** High carbon steel known for its excellent elasticity and toughness.
-* **Hardness:** Usually **HRC 38-45**.
-* **Best For:** Soft to medium soils without many rocks.
-* **Customer Benefit:** **Cost-effective.** It’s the most popular choice for general farming in regions like Southeast Asia and parts of Africa.
+<!-- FORM -->
+<div id="quote" class="section container">
+  <h2>Request a Quote</h2>
+  <form>
+    <input type="text" placeholder="Your Name" required><br>
+    <input type="email" placeholder="Email" required><br>
+    <textarea placeholder="Your requirements"></textarea><br>
+    <button class="btn">Send Inquiry</button>
+  </form>
+</div>
 
-### 2. Boron Steel / 30MnB5 (Premium Choice)
-* **Performance:** Contains Boron, which significantly enhances hardenability. It goes through a specialized quenching process.
-* **Hardness:** Reaches **HRC 48-52**.
-* **Best For:** Heavy-duty work in rocky, abrasive, or extremely hard clay soils.
-* **Customer Benefit:** **3x Life Span.** Although the price is higher, the downtime for replacement is significantly reduced.
+<!-- STICKY CTA -->
+<div class="sticky">
+  <a href="#quote">👉 Get Best Price Now</a>
+</div>
 
----
+<!-- WHATSAPP -->
+<div class="whatsapp">
+  <a href="https://wa.me/yourwhatsapp" target="_blank">💬</a>
+</div>
 
-### 📊 Quick Comparison Table
-
-| Feature | 65Mn Spring Steel | Boron Steel (30MnB5) |
-| :--- | :--- | :--- |
-| **Durability** | Moderate | **Superior** |
-| **Hardness (HRC)** | 38 - 45 | **48 - 52** |
-| **Elasticity** | High | Moderate |
-| **Wear Resistance** | Standard | **Excellent** |
-| **Ideal Market** | Price-sensitive | **Quality-driven / Heavy-duty** |
-
-> **💡 Expert Advice from Hecoth:**
-> "If you are exporting to the South American market where the soil is abrasive, **Boron Steel** is non-negotiable for client satisfaction. For rice paddy preparation in Southeast Asia, our premium **65Mn** discs offer the best ROI."
+</body>
+</html>
