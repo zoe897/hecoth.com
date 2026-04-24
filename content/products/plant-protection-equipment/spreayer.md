@@ -2,7 +2,7 @@
 title: "3W Series Boom Sprayer: Professional Crop Protection for Large-Scale Farming"
 series: "Efficient Plant Protection Solutions"
 description: "High-capacity tractor-mounted boom sprayer (500L-1000L). Engineered for wide-coverage spraying of cotton, corn, and grains. Ideal for African large-scale agricultural projects."
-image: "/img/implement/protection/3w-boom-sprayer.jpg"
+image: "/img/seed/sprayer2.jpg"
 category: "Plant Protection"
 tags: ["Boom Sprayer", "Tractor Sprayer", "Crop Protection Africa", "3W Series", "Pesticide Sprayer"]
 ---
