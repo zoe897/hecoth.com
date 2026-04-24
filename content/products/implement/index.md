@@ -17,28 +17,28 @@ image: "/img/implement/catalog-hero.jpg"
     <img src="/img/implement/tillage-thumb.jpg" alt="Tillage Equipment" />
     <h3>Tillage & Soil Preparation</h3>
     <p>From heavy-duty rotary tillers to European-style side-gear ploughs. Prepare your seedbed with precision.</p>
-    <a href="/products/implement/tillage" class="btn">View Tillage Tools →</a>
+    <a href="/products/implement/tillage/" class="btn">View Tillage Tools →</a>
   </div>
 
   <div class="category-card">
     <img src="/img/implement/seeding-thumb.jpg" alt="Seeding Equipment" />
     <h3>Seeding & Planting</h3>
     <p>High-precision corn, bean, and potato planters. Designed for uniform emergence and zero seed damage.</p>
-    <a href="/products/implement/seeding" class="btn">Explore Planters →</a>
+    <a href="/products/implement/seeding/" class="btn">Explore Planters →</a>
   </div>
 
   <div class="category-card">
     <img src="/img/implement/harvesting-thumb.jpg" alt="Harvesting Equipment" />
     <h3>Harvesting & Hay Tools</h3>
     <p>Efficient mowers and advanced potato harvesters with high separation rates and low crop loss.</p>
-    <a href="/products/implement/harvesting" class="btn">Browse Harvesters →</a>
+    <a href="/products/implement/harvesting/" class="btn">Browse Harvesters →</a>
   </div>
 
   <div class="category-card">
     <img src="/img/implement/protection-thumb.jpg" alt="Plant Protection" />
     <h3>Crop Care & Protection</h3>
     <p>Stainless steel fertilizer spreaders and spraying solutions to ensure healthy crop growth.</p>
-    <a href="/products/implement/plant-protection-equipment" class="btn">View Protection Tools →</a>
+    <a href="/products/implement/plant-protection-equipment/" class="btn">View Protection Tools →</a>
   </div>
 </div>
 
