@@ -51,8 +51,8 @@ tags: ["Material Handler", "Wheeled Grapple Excavator", "HT215K", "Scrap Handler
 * **Durability in Harsh Environments:** Critical hydraulic lines are protected with steel guards, and pivot points are reinforced to withstand the impacts of scrap and timber handling.
 
 ## 🏗️ Quality Control & Global Export Expertise
-With 16+ years of specialization in heavy machinery, we ensure every HT215K undergoes 100+ cycles of heavy-load lifting tests. We provide **Consolidated Spare Parts Packages** (filters, seals, and grapple tines) to ensure your remote operations never face downtime.
+With 17+ years of specialization in heavy machinery, we ensure every HT215K undergoes 100+ cycles of heavy-load lifting tests. We provide **Consolidated Spare Parts Packages** (filters, seals, and grapple tines) to ensure your remote operations never face downtime.
 
 ---
-**Zoe’s Export Advice (16+ Years Exp):**
+**Zoe’s Export Advice (17+ Years Exp):**
 Material handlers are "high-value, high-precision" machines. For shipping, I recommend **RO-RO** or **40ft Flat Rack** to ensure the specialized boom and elevating cab remain perfectly aligned during transit. For fleet owners, we can provide customized

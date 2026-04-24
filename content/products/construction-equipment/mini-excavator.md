@@ -50,10 +50,10 @@ tags: ["Mini Excavator", "HT20", "2 Ton Digger", "Compact Excavator", "Garden Ex
 * **Easy Maintenance Design:** The rear engine hood opens 180°, providing direct access to the fuel filter, air cleaner, and hydraulic pump for quick daily checks.
 
 ## 🏗️ Quality Control & Global Export Expertise
-With over 16 years of expertise in the agricultural and construction machinery supply chain, we ensure every HT20 undergoes 24 hours of continuous operation testing. We provide **LCL-friendly packaging** and a comprehensive **First-Service Filter Kit** with every machine.
+With over 17+ years of expertise in the agricultural and construction machinery supply chain, we ensure every HT20 undergoes 24 hours of continuous operation testing. We provide **LCL-friendly packaging** and a comprehensive **First-Service Filter Kit** with every machine.
 
 ---
-**Zoe’s Export Advice (16+ Years Exp):**
+**Zoe’s Export Advice (17+ Years Exp):**
 For 2-ton mini excavators, shipping costs are the biggest factor. The HT20 is sized perfectly for **20ft/40ft Container Loading**. We can fit up to 4 units in a 20ft container or 8-10 units in a 40ft HQ. To maximize your **ROI**, I recommend ordering a "Service Pack" of buckets (200mm, 600mm, and 1000mm) to be nested inside the machine to save on shipping volume.
 
 **Request a Detailed Quotation & Shipping Plan:** [zoe@annetop.com](mailto:zoe@annetop.com) | Professional Sourcing & Logistics.
